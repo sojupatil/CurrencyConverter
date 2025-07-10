@@ -19,7 +19,7 @@ A simple Python currency converter that converts USD or Euro to INR using fixed 
 3. Open terminal and run:
 
 ```bash
-python converter.py
+python main.py
 ```
 
 ## Sample
